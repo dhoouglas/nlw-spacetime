@@ -2,7 +2,12 @@
     "extends": [
         /*"@rocketseat/eslint-config/react"*/
     ],
+    
     "rules": {
         "camelcase": "off"
+    },
+
+    "parserOptions": {
+        "ecmaVersion": "latest"
     }
 }
