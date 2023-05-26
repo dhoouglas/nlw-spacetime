@@ -99,10 +99,8 @@ export default function NewMemory() {
                 </View>
                 )
                }))} 
-
             </View>
 
-            
         </ScrollView>
     )
 }
